@@ -11,6 +11,6 @@ Solo necesitaremos instalar Pillow, pywhatkit y pygame
 3) `pip install pygame` (nos permite colocar mp3)
    
 # importante
-Debes ejecutar el codigo desde el archivo para despues crearse un .txt y mostrar el video con el codigo ASCII (tambien puedes observarlo desde la terminal)
+Debes ejecutar el codigo desde el archivo para despues que el script cree un .txt y muestre el video con el codigo ASCII (tambien puedes observarlo desde la terminal)
 
 ![badapplegif-‐-Hecho-con-Clipchamp](https://github.com/DeyCasGuerrero/BadApple-Python/assets/132533056/06354d54-29ff-4ae4-9df2-d9323149d814)
