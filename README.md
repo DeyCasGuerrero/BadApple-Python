@@ -1,6 +1,6 @@
  SPANISH | [EN](EN_README.md)
 
-## WEB SCRAPING
+## SCRIPT
 
 # Introducción 
 Este es un script para ejecutas en codigo ASCII el video de Bad Apple, un meme muy conocido por repoducirse en cualquier lado ya se con o sin pantalla.
