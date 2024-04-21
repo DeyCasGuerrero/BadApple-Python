@@ -3,7 +3,7 @@
 ## SCRIPT
 
 # Introducción 
-Este es un script para ejecutas en codigo ASCII el video de Bad Apple, un meme muy conocido por repoducirse en cualquier lado ya se con o sin pantalla.
+Este es un script para ejecutar en codigo ASCII el video de Bad Apple, un meme muy conocido por repoducirse en cualquier lado ya se con o sin pantalla.
 # ¿Qué pip son necesarios? 
 Solo necesitaremos instalar Pillow, pywhatkit y pygame
 1) `pip install Pillow` (este nos permitira interactuar con las imágenes)
